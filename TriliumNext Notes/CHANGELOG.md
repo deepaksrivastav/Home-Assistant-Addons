@@ -1,5 +1,8 @@
 # Changelog
 
+# v2025.09.24
+- Updated to v0.98.1
+
 # v2025.07.07
 - Forked
 - Updated to v0.9.5
