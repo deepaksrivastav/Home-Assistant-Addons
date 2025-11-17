@@ -1,5 +1,8 @@
 # Changelog
 
+# v2025.11.17
+- Updated to v0.99.5
+
 # v2025.10.29
 - Updated to v0.99.3
 
